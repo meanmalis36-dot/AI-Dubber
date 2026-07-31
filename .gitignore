@@ -1,94 +1,14 @@
-# ==========================
-# Python
-# ==========================
-
 __pycache__/
 *.py[cod]
-*$py.class
-
-# Virtual Environment
 venv/
 .venv/
-env/
-ENV/
-
-# Distribution
+.vscode/
+.idea/
+.env
 build/
 dist/
-*.egg-info/
-
-# Installer
-*.exe
-*.msi
-
-# Logs
 *.log
-logs/
-
-# SQLite
-*.sqlite3
-*.db
-
-# Environment
-.env
-.env.*
-
-# VS Code
-.vscode/
-
-# JetBrains
-.idea/
-
-# macOS
-.DS_Store
-
-# Windows
-Thumbs.db
-Desktop.ini
-
-# Python cache
-.pytest_cache/
-.mypy_cache/
-.ruff_cache/
-
-# Coverage
-.coverage
-htmlcov/
-
-# Temporary files
-*.tmp
-*.temp
-
-# FFmpeg output
 output/
-exports/
-
-# Audio
-*.wav
-*.aac
-*.ogg
-
-# Video cache
 cache/
-temp/
-
-# API Keys
-config/api_keys.json
-config/secrets.json
-
-# Qt
-*.qrc
-*.pyc
-
-# Generated UI
-ui_*.py
-
-# Backup
-*.bak
-*.old
-
-# User settings
-settings.local.json
-
-# Build Artifacts
-release/
+Thumbs.db
+.DS_Store
